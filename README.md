@@ -1,4 +1,4 @@
-#**hindu_texts**
+# **hindu_texts**
 
 **यतो धर्मस्ततो जयः**
 
@@ -6,9 +6,9 @@ This is an attempt to visualize and find interesting information about the sacre
 
 This is an ongoing project that I'll contribute to more in the future.
 
-##**WordCloud of Ramayana**
+## **WordCloud of Ramayana**
 ![image](https://github.com/sp1nalcord/hindu_texts/blob/master/result/WordClouds/wordcloud_ramayana.png)
 
-##**Verses in Ramayana**
+## **Verses in Ramayana**
 ![image] (https://github.com/sp1nalcord/hindu_texts/blob/master/result/Graph/ramayana_verses.png)
 
