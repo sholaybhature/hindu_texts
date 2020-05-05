@@ -1,6 +1,6 @@
 # **hindu_texts**
 
-# **यतो धर्मस्ततो जयः**
+## **यतो धर्मस्ततो जयः**
 
 This is an attempt to visualize and find interesting information about the sacred books. I have scraped all the shlokas along with the English translations of each shloka. There is wordcloud and a graph of number of verses for each Kanda in Ramayana. 
 
