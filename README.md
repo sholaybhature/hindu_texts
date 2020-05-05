@@ -1,9 +1,14 @@
-# hindu_texts
-Analysying hindu texts.  Work in progress.  </br>
+#**hindu_texts**
 
-Scrapped all the shlokas of all the Kanda in Ramayana. </br>
-English introduction of each chapter in all the Kanda are also given. </br>
-Made graphs of number of shlokas in each Kanda. </br>
-Made wordcloud of each Kanda.
+**यतो धर्मस्ततो जयः**
 
+This is an attempt to visualize and find interesting information about the sacred books. I have scraped all the shlokas along with the English translations of each shloka. There is wordcloud and a graph of number of verses for each Kanda in Ramayana. 
+
+This is an ongoing project that I'll contribute to more in the future.
+
+##**WordCloud of Ramayana**
 ![image](https://github.com/sp1nalcord/hindu_texts/blob/master/result/WordClouds/wordcloud_ramayana.png)
+
+##**Verses in Ramayana**
+![image] (https://github.com/sp1nalcord/hindu_texts/blob/master/result/Graph/ramayana_verses.png)
+
