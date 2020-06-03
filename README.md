@@ -12,3 +12,6 @@ This is an ongoing project that I'll contribute to more in the future.
 ## **Verses in Ramayana**
 ![image](https://github.com/sp1nalcord/hindu_texts/blob/master/result/Graph/ramayana_verses.png)
 
+## **Every color in Ramayana**
+![image](https://github.com/reedkihaddi/hindu_texts/blob/master/result/every_color.png)
+
